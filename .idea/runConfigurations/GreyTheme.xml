@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="GreyTheme" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" activateToolWindowBeforeRun="false">
+    <module name="GreyTheme" />
+    <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea -Didea.is.internal=true" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <predefined_log_file enabled="true" id="idea.log" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

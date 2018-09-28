@@ -1,0 +1,10 @@
+{
+  "name": "Grey",
+  "dark": false,
+  "author": "Olga Berdnikova",
+
+  "editorScheme": "/greyScheme.xml",
+
+  "ui": {
+  }
+}
