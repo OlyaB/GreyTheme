@@ -6,5 +6,37 @@
   "editorScheme": "/greyScheme.xml",
 
   "ui": {
+    "*": {
+      "background": "#F7F7F7"
+    },
+
+    "Borders": {
+      "color": "#E6E6E6",
+      "ContrastBorderColor": "#E6E6E6"
+    },
+
+    "EditorTabs": {
+      "active.background": "#F7F7F7",
+      "backgroundColor": "#E6E6E6"
+    },
+
+    "Group.separatorColor": "#E6E6E6",
+
+    "link": {
+      "foreground": "#4A78C2"
+    },
+
+    "NavBar.borderColor": "#E6E6E6",
+
+    "Popup": {
+      "Toolbar.Border.color": "#E6E6E6",
+      "separatorColor": "#E6E6E6",
+      "Header.activeBackground": "#EBEBEB",
+      "Header.inactiveBackground": "#EBEBEB"
+    },
+
+    "SidePanel.background": "#F7F7F7",
+
+    "StatusBar.borderColor": "#E6E6E6"
   }
 }
