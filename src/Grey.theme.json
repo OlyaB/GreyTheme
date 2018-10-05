@@ -3,11 +3,12 @@
   "dark": false,
   "author": "Olga Berdnikova",
 
-  "editorScheme": "/greyScheme.xml",
+  "editorScheme": "/themes/greyScheme.xml",
 
   "ui": {
     "*": {
-      "background": "#F7F7F7"
+      "background": "#F2F3F5",
+      "foreground": "#1F1F1F"
     },
 
     "Borders": {
@@ -16,8 +17,9 @@
     },
 
     "EditorTabs": {
-      "active.background": "#F7F7F7",
-      "backgroundColor": "#E6E6E6"
+      "active.background": "#FAFBFC",
+      "inactive.maskColor": "#80808012",
+      "borderColor": "#E6E6E6"
     },
 
     "Group.separatorColor": "#E6E6E6",
@@ -35,8 +37,12 @@
       "Header.inactiveBackground": "#EBEBEB"
     },
 
-    "SidePanel.background": "#F7F7F7",
+    "SidePanel.background": "#F2F3F5",
 
-    "StatusBar.borderColor": "#E6E6E6"
+    "StatusBar.borderColor": "#E6E6E6",
+
+    "ToolWindow": {
+      "header.border.background": "E6E6E6"
+    }
   }
 }
