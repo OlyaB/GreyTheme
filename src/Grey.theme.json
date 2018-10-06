@@ -16,9 +16,11 @@
       "ContrastBorderColor": "#E6E6E6"
     },
 
+    "EditorPane.inactiveBackground": "#F2F3F5 ",
+
     "EditorTabs": {
-      "active.background": "#FAFBFC",
-      "inactive.maskColor": "#80808012",
+      "active.background": "#FFFFFF",
+      "inactive.maskColor": "#666E8012",
       "borderColor": "#E6E6E6"
     },
 
@@ -30,6 +32,8 @@
 
     "NavBar.borderColor": "#E6E6E6",
 
+    "PasswordField.background": "#FFFFFF",
+
     "Popup": {
       "Toolbar.Border.color": "#E6E6E6",
       "separatorColor": "#E6E6E6",
@@ -37,12 +41,34 @@
       "Header.inactiveBackground": "#EBEBEB"
     },
 
+    "SearchEverywhere":  {
+      "SearchField.background": "#FFFFFF",
+      "Tab.active.background": "#D5D6D7",
+      "Advertiser.foreground": "#999999"
+    },
+
+    "Separator.foreground": "#E6E6E6",
+
     "SidePanel.background": "#F2F3F5",
 
     "StatusBar.borderColor": "#E6E6E6",
 
+    "TextArea.background": "#FFFFFF",
+    "TextField.background": "#FFFFFF",
+
     "ToolWindow": {
-      "header.border.background": "E6E6E6"
-    }
+      "header": {
+        "active.background": "#E6E7E8",
+        "border.background": "#E6E6E6",
+        "tab.selected": {
+          "background": "#E0E1E3",
+          "active.background": "#D5D6D7"
+        }
+      },
+      "Button.selectedBackground": "#D5D6D7"
+    },
+
+    "Tree.rowHeight": 22
+
   }
 }
