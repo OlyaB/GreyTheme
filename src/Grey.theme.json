@@ -8,12 +8,18 @@
   "ui": {
     "*": {
       "background": "#F2F3F5",
-      "foreground": "#1F1F1F"
+      "foreground": "#1F1F1F",
+      "selectionBackground":  "#4372E0"
     },
 
     "Borders": {
       "color": "#E6E6E6",
       "ContrastBorderColor": "#E6E6E6"
+    },
+
+    "Button.darcula": {
+      "defaultStartColor": "#5B81C7",
+      "defaultEndColor": "#547DD1"
     },
 
     "EditorPane.inactiveBackground": "#F2F3F5 ",
@@ -27,7 +33,7 @@
     "Group.separatorColor": "#E6E6E6",
 
     "link": {
-      "foreground": "#4A78C2"
+      "foreground": "#4372E0"
     },
 
     "NavBar.borderColor": "#E6E6E6",
