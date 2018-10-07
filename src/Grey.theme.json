@@ -7,7 +7,7 @@
 
   "ui": {
     "*": {
-      "background": "#f2f4f5",
+      "background": "#F2F3F5",
       "foreground": "#1F1F1F",
       "selectionBackground":  "#407FC7"
     },
@@ -27,7 +27,7 @@
       "defaultFocusedOutlineColor": "#A9C9F5"
     },
 
-    "EditorPane.inactiveBackground": "#F2F4F5 ",
+    "EditorPane.inactiveBackground": "#F2F3F5 ",
 
     "EditorTabs": {
       "active.background": "#FFFFFF",
@@ -57,7 +57,7 @@
         "activeBackground": "#E1E2E3",
         "inactiveBackground": "#E1E2E3"
       },
-      "Advertiser.background": "#F2F4F5",
+      "Advertiser.background": "#F2F3F5",
       "Advertiser.foreground": "#999999"
     },
 
@@ -79,7 +79,7 @@
 
     "Separator.foreground": "#E1E3E6",
 
-    "SidePanel.background": "#F2F4F5",
+    "SidePanel.background": "#F2F3F5",
 
     "StatusBar.borderColor": "#E1E3E6",
 
