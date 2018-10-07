@@ -9,7 +9,7 @@
     "*": {
       "background": "#F2F3F5",
       "foreground": "#1F1F1F",
-      "selectionBackground":  "#4372E0"
+      "selectionBackground":  "#5880CC"
     },
 
     "Borders": {
@@ -18,8 +18,11 @@
     },
 
     "Button.darcula": {
-      "defaultStartColor": "#5B81C7",
-      "defaultEndColor": "#547DD1"
+      "defaultStartColor": "#5B85C7",
+      "defaultEndColor": "#5581CF",
+      "shadowColor": "#A6A6A620",
+      "defaultShadowColor": "#A6A6A650",
+      "defaultFocusedOutlineColor": "#A9C9F5"
     },
 
     "EditorPane.inactiveBackground": "#F2F3F5 ",
@@ -30,10 +33,15 @@
       "borderColor": "#E6E6E6"
     },
 
+    "Focus.borderColor": "#95BCF5",
+
     "Group.separatorColor": "#E6E6E6",
 
     "link": {
-      "foreground": "#4372E0"
+      "foreground": "#2A66BF",
+      "hover.foreground": "#2A66BF",
+      "pressed.foreground": "#2A66BF",
+      "visited.foreground": "#2A66BF"
     },
 
     "NavBar.borderColor": "#E6E6E6",
@@ -45,6 +53,12 @@
       "separatorColor": "#E6E6E6",
       "Header.activeBackground": "#EBEBEB",
       "Header.inactiveBackground": "#EBEBEB"
+    },
+
+    "ProgressBar": {
+      "progressColor": "#5880CC",
+      "indeterminateStartColor": "#c2d4f2",
+      "indeterminateEndColor": "#5880CC"
     },
 
     "SearchEverywhere":  {
@@ -59,6 +73,11 @@
 
     "StatusBar.borderColor": "#E6E6E6",
 
+    "TabbedPane": {
+      "selectedColor": "#5581CF",
+      "hoverColor": "#E0E1E3"
+    },
+
     "TextArea.background": "#FFFFFF",
     "TextField.background": "#FFFFFF",
 
@@ -71,10 +90,13 @@
           "active.background": "#D5D6D7"
         }
       },
-      "Button.selectedBackground": "#D5D6D7"
+      "Button": {
+        "selectedBackground": "#D5D6D7",
+        "hoverBackground": "#D5D6D7"
+      }
     },
 
-    "Tree.rowHeight": 22
+    "Tree.rowHeight": 21
 
   }
 }
