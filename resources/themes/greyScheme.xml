@@ -12,7 +12,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <colors>
         <option name="CARET_ROW_COLOR" value="f2f3f5" />
-        <option name="GUTTER_BACKGROUND" value="fafbfc" />
+        <option name="GUTTER_BACKGROUND" value="F7F9FA" />
         <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
         <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
         <option name="TEARLINE_COLOR" value="e6e6e6" />
@@ -194,7 +194,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="262626" />
-                <option name="BACKGROUND" value="fafbfc" />
+                <option name="BACKGROUND" value="F7F9FA" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
