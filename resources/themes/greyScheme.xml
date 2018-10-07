@@ -1,10 +1,10 @@
 <scheme name="Grey" version="142" parent_scheme="Default">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2018-10-06T16:47:30</property>
+        <property name="created">2018-10-07T15:23:14</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2018.3.0.0</property>
-        <property name="modified">2018-10-06T16:47:35</property>
+        <property name="modified">2018-10-07T15:23:18</property>
         <property name="originalScheme">_@user_Grey</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.35" />
@@ -142,6 +142,31 @@
         <option name="List/map to object conversion">
             <value>
                 <option name="FOREGROUND" value="ff" />
+            </value>
+        </option>
+        <option name="MARKDOWN_AUTO_LINK">
+            <value>
+                <option name="FOREGROUND" value="185b9e" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="MARKDOWN_HEADER_LEVEL_1">
+            <value>
+                <option name="FOREGROUND" value="660e7a" />
+            </value>
+        </option>
+        <option name="MARKDOWN_HEADER_LEVEL_2">
+            <value>
+                <option name="FOREGROUND" value="660e7a" />
+            </value>
+        </option>
+        <option name="MARKDOWN_LINK_DESTINATION">
+            <value />
+        </option>
+        <option name="MARKDOWN_LINK_TEXT">
+            <value>
+                <option name="FOREGROUND" value="185b9e" />
+                <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
