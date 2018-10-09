@@ -88,6 +88,8 @@
       "hoverColor": "#E1E2E3"
     },
 
+    "TableHeader.cellBorder": "3,0,3,0",
+
     "TextArea.background": "#FFFFFF",
     "TextField.background": "#FFFFFF",
 

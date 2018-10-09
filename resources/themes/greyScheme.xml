@@ -1,10 +1,10 @@
 <scheme name="Grey" version="142" parent_scheme="Default">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2018-10-08T11:23:47</property>
+        <property name="created">2018-10-09T18:47:06</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2018.3.0.0</property>
-        <property name="modified">2018-10-08T11:23:56</property>
+        <property name="modified">2018-10-09T18:47:13</property>
         <property name="originalScheme">_@user_Grey</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.35" />
@@ -12,7 +12,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <colors>
         <option name="CARET_ROW_COLOR" value="f2f3f5" />
-        <option name="GUTTER_BACKGROUND" value="fafbfc" />
+        <option name="GUTTER_BACKGROUND" value="fcfcfc" />
         <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
         <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
         <option name="TEARLINE_COLOR" value="e6e6e6" />
@@ -161,7 +161,9 @@
             </value>
         </option>
         <option name="MARKDOWN_LINK_DESTINATION">
-            <value />
+            <value>
+                <option name="BACKGROUND" value="e9f0e9" />
+            </value>
         </option>
         <option name="MARKDOWN_LINK_TEXT">
             <value>
@@ -194,7 +196,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="1c1c1c" />
-                <option name="BACKGROUND" value="fafbfc" />
+                <option name="BACKGROUND" value="fcfcfc" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
