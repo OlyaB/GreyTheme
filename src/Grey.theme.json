@@ -53,12 +53,15 @@
     "Popup": {
       "Toolbar.Border.color": "#E1E3E6",
       "separatorColor": "#E1E3E6",
+      "Separator.foreground": "#999999",
       "Header": {
         "activeBackground": "#E1E2E3",
         "inactiveBackground": "#E1E2E3"
       },
-      "Advertiser.background": "#F2F3F5",
-      "Advertiser.foreground": "#999999"
+      "Advertiser": {
+        "background": "#F2F3F5",
+        "foreground": "#999999"
+      }
     },
 
     "ProgressBar": {
@@ -98,6 +101,10 @@
         "active.background": "#E6E7E8",
         "border.background": "#E1E3E6",
         "tab.selected": {
+          "background": "#e1e2e3",
+          "active.background": "#D5D6D7"
+        },
+      "tab.hovered": {
           "background": "#e1e2e3",
           "active.background": "#D5D6D7"
         }
