@@ -9,7 +9,9 @@
     "*": {
       "background": "#F2F3F5",
       "foreground": "#1F1F1F",
-      "selectionBackground":  "#407FC7"
+      "selectionBackground":  "#407FC7",
+      "selectionBackgroundInactive": "#D5D5D5",
+      "selectionInactiveBackground": "#D5D5D5"
     },
 
     "Borders": {
