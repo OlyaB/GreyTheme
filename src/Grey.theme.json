@@ -52,7 +52,9 @@
 
     "PasswordField.background": "#FFFFFF",
 
-    "Plugins.selectionBackground": "#F4F9FF",
+    "Plugins": {
+      "selectionBackground": "#F4F9FF"
+    },
 
     "Popup": {
       "Toolbar.Border.color": "#E1E3E6",
