@@ -53,7 +53,8 @@
 
     "Component.focusColor": "#84B8F0",
 
-    "Group.separatorColor": "#E1E3E6",
+    "FileColor.Yellow": "#F5F0DF",
+    "FileColor.Green": "#E8F2DF",
 
     "Link": {
       "activeForeground": "#2163A6",
@@ -78,7 +79,6 @@
       },
 
       "Toolbar.borderColor": "#E1E3E6",
-      "separatorColor": "#E1E3E6",
       "separatorForeground": "#999999",
 
       "Advertiser": {
