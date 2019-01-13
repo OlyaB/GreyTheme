@@ -43,6 +43,8 @@
 
     "ComboBoxButton.background": "#FFFFFF",
 
+    "Component.focusColor": "#84B8F0",
+
     "EditorPane.inactiveBackground": "#F2F3F5",
 
     "EditorTabs": {
@@ -50,8 +52,6 @@
       "inactiveMaskColor": "#66738012",
       "borderColor": "#E1E3E6"
     },
-
-    "Component.focusColor": "#84B8F0",
 
     "FileColor.Yellow": "#F5F0DF",
     "FileColor.Green": "#E8F2DF",
@@ -65,6 +65,8 @@
 
     "NavBar.borderColor": "#E1E3E6",
 
+    "Notification.ToolWindow.infoForeground": "#1F1F1F",
+
     "PasswordField.background": "#FFFFFF",
 
     "Plugins": {
@@ -72,7 +74,6 @@
     },
 
     "Popup": {
-
       "Header": {
         "activeBackground": "#E1E2E3",
         "inactiveBackground": "#E1E2E3"
