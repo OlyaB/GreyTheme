@@ -9,6 +9,7 @@
     "*": {
       "background": "#F2F3F5",
       "foreground": "#1F1F1F",
+
       "selectionBackground":  "#407FC7",
       "selectionBackgroundInactive": "#D5D5D5",
       "selectionInactiveBackground": "#D5D5D5",
@@ -17,7 +18,9 @@
       "disabledText": "#8C8C8C",
       "inactiveForeground": "#8C8C8C",
 
-      "infoForeground": "#808080"
+      "infoForeground": "#808080",
+
+      "separatorColor": "#E1E3E6"
     },
 
     "Borders": {
@@ -98,38 +101,36 @@
         "background": "#FFFFFF",
         "borderColor": "#E1E3E6"
       },
-      "Tab.active.background": "#D5D6D7",
+      "Tab.selectedBackground": "#D5D6D7",
       "Advertiser.foreground": "#8C8C8C"
     },
-
-    "Separator.foreground": "#E1E3E6",
 
     "SidePanel.background": "#F2F3F5",
 
     "StatusBar.borderColor": "#E1E3E6",
 
     "TabbedPane": {
-      "selectedColor": "#407FC7",
+      "underlineColor": "#407FC7",
       "hoverColor": "#E1E2E3"
     },
 
     "TableHeader.cellBorder": "3,0,3,0",
 
     "TextArea.background": "#FFFFFF",
+
     "TextField.background": "#FFFFFF",
 
     "ToolWindow": {
-      "header": {
-        "active.background": "#E6E7E8",
-        "border.background": "#E1E3E6",
-        "tab.selected": {
-          "background": "#e1e2e3",
-          "active.background": "#D5D6D7"
-        },
-      "tab.hovered": {
-          "background": "#e1e2e3",
-          "active.background": "#D5D6D7"
-        }
+      "Header": {
+        "background": "#EBECED",
+        "inactiveBackground": "#F2F3F5",
+        "borderColor": "#E1E3E6"
+      },
+      "HeaderTab": {
+        "selectedBackground": "#D5D6D7",
+        "hoverBackground": "#D5D6D7",
+        "selectedInactiveBackground": "#e1e2e3",
+        "hoverInactiveBackground": "#e1e2e3"
       },
       "Button": {
         "selectedBackground": "#D5D6D7",
