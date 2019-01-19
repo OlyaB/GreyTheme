@@ -45,6 +45,12 @@
 
     "Component.focusColor": "#84B8F0",
 
+    "Editor": {
+      "background": "#E8E9EB",
+      "foreground": "#808080",
+      "shortcutForeground": "#4274A6"
+    },
+
     "EditorPane.inactiveBackground": "#F2F3F5",
 
     "EditorTabs": {
@@ -52,6 +58,8 @@
       "inactiveMaskColor": "#66738012",
       "borderColor": "#E1E3E6"
     },
+
+    "DebuggerTabs.selectedBackground": "#FFFFFF",
 
     "FileColor.Yellow": "#F5F0DF",
     "FileColor.Green": "#E8F2DF",
@@ -68,7 +76,12 @@
     "PasswordField.background": "#FFFFFF",
 
     "Plugins": {
-      "selectionBackground": "#F4F9FF"
+      "background": "#FFFFFF",
+      "SearchField.background": "#FFFFFF",
+      "SectionHeader.foreground": "#808080",
+      "Tab.selectedBackground": "#D5D6D7",
+      "Tab.hoverBackground": "#D5D6D7",
+      "lightSelectionBackground": "#F4F9FF"
     },
 
     "Popup": {
@@ -77,8 +90,8 @@
         "inactiveBackground": "#E1E2E3"
       },
 
-      "Toolbar.borderColor": "#E1E3E6",
       "separatorForeground": "#999999",
+      "Toolbar.borderColor": "#E1E3E6",
 
       "Advertiser": {
         "foreground": "#8C8C8C",
@@ -119,9 +132,13 @@
 
     "TextField.background": "#FFFFFF",
 
+    "ToggleButton.onBackground": "#407FC7",
+
+    "ToolTip.Actions.background": "#E8E9EB",
+
     "ToolWindow": {
       "Header": {
-        "background": "#EBECED",
+        "background": "#E8E9EB",
         "inactiveBackground": "#F2F3F5",
         "borderColor": "#E1E3E6"
       },
