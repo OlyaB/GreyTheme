@@ -45,6 +45,11 @@
 
     "Component.focusColor": "#84B8F0",
 
+    "Counter": {
+      "background": "#9AA7B0",
+      "foreground": "#FFFFFF"
+    },
+
     "Editor": {
       "background": "#E8E9EB",
       "foreground": "#808080",
