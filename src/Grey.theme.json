@@ -43,6 +43,8 @@
 
     "ComboBoxButton.background": "#FFFFFF",
 
+    "ComboPopup.border": "1,1,1,1,e1e3e6",
+
     "Component.focusColor": "#84B8F0",
 
     "Counter": {
