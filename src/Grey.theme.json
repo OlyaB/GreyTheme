@@ -84,6 +84,16 @@
       "visitedForeground": "#2163A6"
     },
 
+    "Notification": {
+      "background": "#f7f8fa",
+      "borderColor": "#D4D6D9",
+      "MoreButton": {
+        "background": "#E8E9EB",
+        "foreground": "#8C8C8C",
+        "innerBorderColor": "#E8E9EB"
+      }
+    },
+
     "PasswordField.background": "#FFFFFF",
 
     "Plugins": {
@@ -124,7 +134,17 @@
       "Advertiser.foreground": "#8C8C8C"
     },
 
+    "SearchMatch": {
+      "startBackground": "#FFD080",
+      "endBackground": "#FFD080"
+    },
+
     "SidePanel.background": "#F2F3F5",
+
+    "SpeedSearch": {
+      "background": "#F5F0E6",
+      "borderColor": "#E0CEA8"
+    },
 
     "TabbedPane": {
       "underlineColor": "#407FC7",
