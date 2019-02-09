@@ -102,6 +102,16 @@
         "background": "#E8E9EB",
         "foreground": "#8C8C8C",
         "innerBorderColor": "#E8E9EB"
+      },
+
+      "ToolWindow": {
+        "informativeBackground": "#e1ebd8",
+        "informativeBorderColor": "#b5c7a5",
+        "warningBackground": "#f5ebd7",
+        "warningBorderColor": "#E0CEA8",
+        "errorForeground": "#1F1F1F",
+        "errorBackground": "#F5E6E7",
+        "errorBorderColor": "#E0A8A9"
       }
     },
 
