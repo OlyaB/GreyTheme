@@ -158,7 +158,10 @@
 
     "TextField.background": "#FFFFFF",
 
-    "ToggleButton.onBackground": "#407FC7",
+    "ToggleButton": {
+      "onBackground": "#407FC7",
+      "borderColor": "#C4C4C4"
+    },
 
     "ToolTip.Actions.background": "#E8E9EB",
 
