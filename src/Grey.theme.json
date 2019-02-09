@@ -20,7 +20,9 @@
 
       "infoForeground": "#808080",
 
-      "separatorColor": "#E1E3E6"
+      "separatorColor": "#E1E3E6",
+
+      "borderColor": "#E1E3E6"
     },
 
     "Borders": {
@@ -40,6 +42,8 @@
         "focusedBorderColor": "#A9C9F5"
       }
     },
+
+    "ComboBox.nonEditableBackground": "#FFFFFF",
 
     "ComboBoxButton.background": "#FFFFFF",
 
@@ -62,8 +66,7 @@
 
     "EditorTabs": {
       "selectedBackground": "#FFFFFF",
-      "inactiveMaskColor": "#66738012",
-      "borderColor": "#E1E3E6"
+      "inactiveMaskColor": "#66738012"
     },
 
     "DebuggerTabs.selectedBackground": "#FFFFFF",
@@ -77,8 +80,6 @@
       "pressedForeground": "#2163A6",
       "visitedForeground": "#2163A6"
     },
-
-    "NavBar.borderColor": "#E1E3E6",
 
     "PasswordField.background": "#FFFFFF",
 
@@ -98,7 +99,6 @@
       },
 
       "separatorForeground": "#999999",
-      "Toolbar.borderColor": "#E1E3E6",
 
       "Advertiser": {
         "foreground": "#8C8C8C",
@@ -116,17 +116,12 @@
     },
 
     "SearchEverywhere":  {
-      "SearchField": {
-        "background": "#FFFFFF",
-        "borderColor": "#E1E3E6"
-      },
+      "SearchField.background": "#FFFFFF",
       "Tab.selectedBackground": "#D5D6D7",
       "Advertiser.foreground": "#8C8C8C"
     },
 
     "SidePanel.background": "#F2F3F5",
-
-    "StatusBar.borderColor": "#E1E3E6",
 
     "TabbedPane": {
       "underlineColor": "#407FC7",
@@ -146,8 +141,7 @@
     "ToolWindow": {
       "Header": {
         "background": "#E8E9EB",
-        "inactiveBackground": "#F2F3F5",
-        "borderColor": "#E1E3E6"
+        "inactiveBackground": "#F2F3F5"
       },
       "HeaderTab": {
         "selectedBackground": "#D5D6D7",
