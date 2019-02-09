@@ -20,6 +20,8 @@
 
       "infoForeground": "#808080",
 
+      "errorForeground": "#C7222D",
+
       "separatorColor": "#E1E3E6",
 
       "borderColor": "#E1E3E6"
@@ -48,6 +50,12 @@
     "ComboBoxButton.background": "#FFFFFF",
 
     "ComboPopup.border": "1,1,1,1,D4D6D9",
+
+    "CompletionPopup": {
+      "matchForeground": "#0080ff",
+      "matchSelectionForeground": "#cce6ff",
+      "foreground": "#808080"
+    },
 
     "Component": {
       "borderColor": "#C4C4C4",
