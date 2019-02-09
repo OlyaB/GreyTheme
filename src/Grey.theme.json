@@ -34,6 +34,8 @@
 
     "Button": {
       "shadowColor": "#A6A6A620",
+      "startBorderColor": "#C4C4C4",
+      "endBorderColor": "#C4C4C4",
       "default": {
         "foreground": "#FFFFFF",
         "startBackground": "#528CC7",
@@ -46,6 +48,7 @@
     },
 
     "ComboBox.nonEditableBackground": "#FFFFFF",
+    "ComboBox.ArrowButton.background": "#f7f8fa",
 
     "ComboBoxButton.background": "#FFFFFF",
 
