@@ -47,9 +47,12 @@
 
     "ComboBoxButton.background": "#FFFFFF",
 
-    "ComboPopup.border": "1,1,1,1,e1e3e6",
+    "ComboPopup.border": "1,1,1,1,D4D6D9",
 
-    "Component.focusColor": "#84B8F0",
+    "Component": {
+      "borderColor": "#C4C4C4",
+      "focusColor": "#84B8F0"
+    },
 
     "Counter": {
       "background": "#9AA7B0",
@@ -125,7 +128,8 @@
 
     "TabbedPane": {
       "underlineColor": "#407FC7",
-      "hoverColor": "#E1E2E3"
+      "hoverColor": "#E1E2E3",
+      "contentAreaColor": "#E1E3E6"
     },
 
     "TableHeader.cellBorder": "3,0,3,0",
