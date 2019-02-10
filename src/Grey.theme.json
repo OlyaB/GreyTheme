@@ -20,8 +20,6 @@
 
       "infoForeground": "#808080",
 
-      "errorForeground": "#C7222D",
-
       "separatorColor": "#E1E3E6",
 
       "borderColor": "#E1E3E6"
@@ -87,6 +85,8 @@
 
     "FileColor.Yellow": "#F5F0DF",
     "FileColor.Green": "#E8F2DF",
+
+    "Label.errorForeground": "#C7222D",
 
     "Link": {
       "activeForeground": "#2163A6",
@@ -164,7 +164,8 @@
 
     "SpeedSearch": {
       "background": "#F5F0E6",
-      "borderColor": "#E0CEA8"
+      "borderColor": "#E0CEA8",
+      "errorForeground": "#C7222D"
     },
 
     "TabbedPane": {
