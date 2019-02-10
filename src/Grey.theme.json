@@ -206,5 +206,11 @@
 
     "Tree.rowHeight": 22
 
+  },
+
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Border.Default": "#adadad"
+    }
   }
 }
