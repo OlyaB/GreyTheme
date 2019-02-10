@@ -171,6 +171,8 @@
       "contentAreaColor": "#E1E3E6"
     },
 
+    "Table.stripeColor": "#F2F3F5",
+
     "TableHeader.cellBorder": "3,0,3,0",
 
     "TextArea.background": "#FFFFFF",
