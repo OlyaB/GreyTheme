@@ -52,11 +52,7 @@
 
     "ComboPopup.border": "1,1,1,1,D4D6D9",
 
-    "CompletionPopup": {
-      "matchForeground": "#0080ff",
-      "matchSelectionForeground": "#cce6ff",
-      "foreground": "#808080"
-    },
+    "CompletionPopup.foreground": "#808080",
 
     "Component": {
       "borderColor": "#C4C4C4",
@@ -204,7 +200,12 @@
       }
     },
 
-    "Tree.rowHeight": 22
+    "Tree.rowHeight": 22,
+
+    "VersionControl": {
+      "Log.Commit.currentBranchBackground": "#e6f0f2",
+      "FileHistory.Commit.selectedBranchBackground": "#e6f0f2"
+    }
 
   },
 
