@@ -20,8 +20,9 @@
 
       "infoForeground": "#808080",
 
-      "separatorColor": "#E1E3E6",
+      "acceleratorSelectionForeground": "#FFFFFF",
 
+      "separatorColor": "#E1E3E6",
       "borderColor": "#E1E3E6"
     },
 
