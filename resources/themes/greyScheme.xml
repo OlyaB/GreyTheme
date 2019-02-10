@@ -12,12 +12,35 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <colors>
         <option name="CARET_ROW_COLOR" value="f2f3f5" />
+        <option name="FILESTATUS_COPIED" value="a7700" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
+        <option name="FILESTATUS_RENAMED" value="7c7c" />
         <option name="GUTTER_BACKGROUND" value="fafbfc" />
         <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
         <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
         <option name="TEARLINE_COLOR" value="e6e6e6" />
     </colors>
     <attributes>
+        <option name="DEFAULT_BLOCK_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="808080" />
+            </value>
+        </option>
+        <option name="DEFAULT_LINE_COMMENT">
+            <value>
+                <option name="FOREGROUND" value="808080" />
+            </value>
+        </option>
+        <option name="DEFAULT_STRING">
+            <value>
+                <option name="FOREGROUND" value="106b10" />
+            </value>
+        </option>
+        <option name="INJECTED_LANGUAGE_FRAGMENT">
+            <value>
+                <option name="BACKGROUND" value="e4ede4" />
+            </value>
+        </option>
         <option name="CTRL_CLICKABLE">
             <value>
                 <option name="FOREGROUND" value="185b9e" />
@@ -65,11 +88,6 @@
         <option name="DEFAULT_STATIC_METHOD">
             <value />
         </option>
-        <option name="DEFAULT_STRING">
-            <value>
-                <option name="FOREGROUND" value="107310" />
-            </value>
-        </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
                 <option name="FOREGROUND" value="80" />
@@ -110,11 +128,6 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
-        <option name="INJECTED_LANGUAGE_FRAGMENT">
-            <value>
-                <option name="BACKGROUND" value="f0f0f0" />
-            </value>
-        </option>
         <option name="INSTANCE_FIELD_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="660e7a" />
@@ -145,6 +158,9 @@
             <value>
                 <option name="FOREGROUND" value="ff" />
             </value>
+        </option>
+        <option name="MARKDOWN_LINK_DESTINATION">
+            <value />
         </option>
         <option name="MARKDOWN_HTML_BLOCK">
             <value>
