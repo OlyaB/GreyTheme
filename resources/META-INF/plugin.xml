@@ -1,10 +1,13 @@
 <idea-plugin>
-  <id>com.jetbrains.greyTheme</id>
-  <name>Grey Theme</name>
+  <id>com.jetbrains.grayTheme</id>
+  <name>Gray Theme</name>
   <version>1.0</version>
-  <vendor email="olga.berdnikova@jetbrains.com" url="http://jetbrains.com">JetBrains</vendor>
+  <vendor email="olga.berdnikova@jetbrains.com" url="">Olga Berdnikova</vendor>
 
   <description><![CDATA[
+  A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.
+
+  Please note that this theme overrides your font settings. Uncheck "Use color scheme font instead of the default" in Setting | Editor | Color Scheme | Color Scheme Font to return your font settings.
       ]]></description>
 
   <change-notes><![CDATA[
@@ -22,7 +25,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" path="/Grey.theme.json"/>
+    <themeProvider id="dfdeb71c-cf0a-490d-8983-dfb56b5e043f" path="/Gray.theme.json"/>
   </extensions>
 
   <actions>

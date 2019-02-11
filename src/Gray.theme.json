@@ -1,9 +1,9 @@
 {
-  "name": "Grey",
+  "name": "Gray",
   "dark": false,
   "author": "Olga Berdnikova",
 
-  "editorScheme": "/themes/greyScheme.xml",
+  "editorScheme": "/themes/grayScheme.xml",
 
   "ui": {
     "*": {
