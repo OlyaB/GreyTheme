@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
   <g fill="none" fill-rule="evenodd">
-    <polygon fill="#F2F3F5" fill-rule="nonzero" points="5 11.557 5 28.721 19.853 37.31 34.706 28.721 34.706 11.557 19.853 3"/>
-    <polygon fill="#FAFBFC" fill-rule="nonzero" points="5 11.557 19.853 21 19.853 3"/>
-    <polygon fill="#E6F0F2" fill-rule="nonzero" points="19.853 21 5 11.557 5 28.721"/>
-    <polygon fill="#F2F3F5" fill-rule="nonzero" points="19.853 21 5 28.721 19.853 37.31"/>
-    <polygon fill="#D5D6D7" fill-rule="nonzero" points="19.853 21 19.853 37.31 34.706 28.721"/>
-    <polygon fill="#84B8F0" fill-rule="nonzero" points="34.706 11.557 19.853 21 34.706 28.721"/>
-    <polygon fill="#407FC7" fill-rule="nonzero" points="19.853 3 19.853 21 34.706 11.557"/>
+    <polygon fill="#F2F3F5" fill-rule="nonzero" points="10 23 10 57 40 74 70 57 70 23"/>
+    <polygon fill="#FAFBFC" fill-rule="nonzero" points="10 23 40 40 40 6"/>
+    <polygon fill="#E6F0F2" fill-rule="nonzero" points="40 40 10 23 10 57"/>
+    <polygon fill="#F2F3F5" fill-rule="nonzero" points="40 40 10 57 40 74"/>
+    <polygon fill="#D5D6D7" fill-rule="nonzero" points="40 40 40 74 70 57"/>
+    <polygon fill="#84B8F0" fill-rule="nonzero" points="70 23 40 40 70 57"/>
+    <polygon fill="#407FC7" fill-rule="nonzero" points="40 6 40 40 70 23"/>
   </g>
 </svg>
