@@ -133,9 +133,7 @@
 
       "Advertiser": {
         "foreground": "#8C8C8C",
-        "background": "#E8E9EB",
-        "borderColor": "#E8E9EB",
-        "borderInsets": "4,6,4,0"
+        "borderInsets": "3,6,3,0"
       }
     },
 
