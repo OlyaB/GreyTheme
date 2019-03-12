@@ -19,6 +19,7 @@
       "inactiveForeground": "#8C8C8C",
 
       "infoForeground": "#808080",
+      "modifiedItemForeground": "#006be6",
 
       "acceleratorSelectionForeground": "#FFFFFF",
 
@@ -53,8 +54,6 @@
 
     "ComboPopup.border": "1,1,1,1,D4D6D9",
 
-    "CompletionPopup.foreground": "#808080",
-
     "Component": {
       "borderColor": "#C4C4C4",
       "focusColor": "#84B8F0"
@@ -75,10 +74,10 @@
 
     "EditorTabs": {
       "selectedBackground": "#FFFFFF",
-      "inactiveMaskColor": "#66738012"
+      "inactiveMaskColor": "#4d4d4d12"
     },
 
-    "DebuggerTabs.selectedBackground": "#FFFFFF",
+    "DebuggerTabs.selectedBackground": "#F2F3F5",
 
     "FileColor.Yellow": "#F5F0DF",
     "FileColor.Green": "#E8F2DF",
@@ -89,7 +88,8 @@
       "activeForeground": "#2163A6",
       "hoverForeground": "#2163A6",
       "pressedForeground": "#2163A6",
-      "visitedForeground": "#2163A6"
+      "visitedForeground": "#2163A6",
+      "secondaryForeground": "#77a8d9"
     },
 
     "Notification": {
