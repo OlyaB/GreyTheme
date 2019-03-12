@@ -2,11 +2,14 @@
   <id>com.jetbrains.grayTheme</id>
   <name>Gray Theme</name>
   <version>1.0</version>
-  <vendor email="olga.berdnikova@jetbrains.com" url="">Olga Berdnikova</vendor>
+  <vendor email="olga.berdnikova@jetbrains.com" url="https://github.com/OlyaB">Olga Berdnikova</vendor>
 
   <description><![CDATA[
-  A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.<br/><br/>
+  A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.
+  <br/><br/>
   Please note that this theme overrides your font settings. Uncheck "Use color scheme font instead of the default" in Setting | Editor | Color Scheme | Color Scheme Font to return your font settings.
+  <br/><br/>
+  <a href="https://github.com/OlyaB/GreyTheme/issues">Send feedback</a> | <a href="https://github.com/OlyaB/GreyTheme">On GitHub</a>
       ]]></description>
 
   <change-notes><![CDATA[
