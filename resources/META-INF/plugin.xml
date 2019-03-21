@@ -7,9 +7,29 @@
   <description><![CDATA[
   A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.
   <br/><br/>
+
+  For version 2019.1 and above.
+  <br/><br/>
+
   Please note that this theme overrides your font settings. Uncheck "Use color scheme font instead of the default" in Setting | Editor | Color Scheme | Color Scheme Font to return your font settings.
   <br/><br/>
-  <a href="https://github.com/OlyaB/GreyTheme/issues">Send feedback</a> | <a href="https://github.com/OlyaB/GreyTheme">On GitHub</a> | <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
+
+  To install:
+  <ul>
+  <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+  <li>Restart IDE</li>
+  <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+  </ul>
+  <br/>
+
+  <a href="https://github.com/OlyaB/GreyTheme/issues">Report an issue</a> | <a href="https://github.com/OlyaB/GreyTheme">On GitHub</a> | <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
+  <br/><br/><br/>
+
+  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-java.png" border="0" width="700" alt="Main window Java screenshot">
+  <br/>
+  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-markdown.png" border="0" width="700" alt="Main window Markdown screenshot">
+  <br/>
+  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-settings.png" border="0" width="700" alt="Settings screenshot">
       ]]></description>
 
   <change-notes><![CDATA[
