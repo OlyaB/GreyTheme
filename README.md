@@ -4,6 +4,6 @@ Please note that this theme overrides your font settings. Uncheck "Use color sch
   
 <a href="https://github.com/OlyaB/GreyTheme/issues">Send feedback</a>  
   
-![Gray theme main window Java](/resources/screenshots/gray-main-window-java.png)
-![Gray theme main window Markdown](/resources/screenshots/gray-main-window-markdown.png)
-![Gray theme settings](/resources/screenshots/gray-settings.png)
+![Gray theme main window Java](/screenshots/gray-main-window-java.png)
+![Gray theme main window Markdown](/screenshots/gray-main-window-markdown.png)
+![Gray theme settings](/screenshots/gray-settings.png)
