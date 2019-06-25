@@ -54,6 +54,11 @@
 
     "ComboPopup.border": "1,1,1,1,D4D6D9",
 
+    "CompletionPopup": {
+      "selectionBackground": "#c5dffc",
+      "selectionInactiveBackground": "#e0e0e0"
+    },
+
     "Component": {
       "borderColor": "#C4C4C4",
       "focusColor": "#84B8F0"
