@@ -24,7 +24,9 @@
       "acceleratorSelectionForeground": "#FFFFFF",
 
       "separatorColor": "#E1E3E6",
-      "borderColor": "#E1E3E6"
+      "borderColor": "#E1E3E6",
+
+      "underlineColor": "#4787d1"
     },
 
     "Borders": {
@@ -79,7 +81,12 @@
 
     "EditorTabs": {
       "selectedBackground": "#FFFFFF",
-      "inactiveMaskColor": "#4d4d4d12"
+      "inactiveMaskColor": "#4d4d4d12",
+
+      "underlinedTabBackground": "#F2F3F5",
+
+      "hoverMaskColor": "#00000015",
+      "inactiveColoredFileBackground": "#d9d9d950"
     },
 
     "DebuggerTabs.selectedBackground": "#F2F3F5",
@@ -169,7 +176,6 @@
     },
 
     "TabbedPane": {
-      "underlineColor": "#407FC7",
       "hoverColor": "#E1E2E3",
       "contentAreaColor": "#E1E3E6"
     },
