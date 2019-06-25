@@ -176,7 +176,11 @@
 
     "Table.stripeColor": "#F2F3F5",
 
-    "TableHeader.cellBorder": "3,0,3,0",
+    "TableHeader": {
+      "cellBorder": "3,0,3,0",
+      "background": "#fafbfc",
+      "bottomSeparatorColor": "#ebedf0"
+    },
 
     "TextArea.background": "#FFFFFF",
 
