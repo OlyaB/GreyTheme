@@ -73,8 +73,8 @@
     },
 
     "Editor": {
-      "background": "#E8E9EB",
-      "foreground": "#808080",
+      "background": "#d4d6d9",
+      "foreground": "#797b80",
       "shortcutForeground": "#4274A6"
     },
 
