@@ -60,7 +60,10 @@
       "selectionBackground": "#cfe5fc",
       "selectionInactiveBackground": "#e0e0e0",
       "nonFocusedMask": "#FFFFFF35",
-      "matchForeground": "#0081de"
+      "matchForeground": "#0081de",
+      "selectionForeground": "#1F1F1F",
+      "selectionInfoForeground": "#808080",
+      "matchSelectionForeground": "#0081de"
     },
 
     "Component": {
