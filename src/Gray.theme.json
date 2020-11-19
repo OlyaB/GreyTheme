@@ -24,7 +24,9 @@
       "acceleratorSelectionForeground": "#FFFFFF",
 
       "separatorColor": "#E1E3E6",
-      "borderColor": "#E1E3E6"
+      "borderColor": "#E1E3E6",
+
+      "underlineColor": "#4787d1"
     },
 
     "Borders": {
@@ -54,6 +56,16 @@
 
     "ComboPopup.border": "1,1,1,1,D4D6D9",
 
+    "CompletionPopup": {
+      "selectionBackground": "#cfe5fc",
+      "selectionInactiveBackground": "#e0e0e0",
+      "nonFocusedMask": "#FFFFFF35",
+      "matchForeground": "#0081de",
+      "selectionForeground": "#1F1F1F",
+      "selectionInfoForeground": "#808080",
+      "matchSelectionForeground": "#0081de"
+    },
+
     "Component": {
       "borderColor": "#C4C4C4",
       "focusColor": "#84B8F0"
@@ -65,8 +77,8 @@
     },
 
     "Editor": {
-      "background": "#E8E9EB",
-      "foreground": "#808080",
+      "background": "#d4d6d9",
+      "foreground": "#797b80",
       "shortcutForeground": "#4274A6"
     },
 
@@ -74,7 +86,12 @@
 
     "EditorTabs": {
       "selectedBackground": "#FFFFFF",
-      "inactiveMaskColor": "#4d4d4d12"
+      "inactiveMaskColor": "#4d4d4d12",
+
+      "underlinedTabBackground": "#F2F3F5",
+
+      "hoverMaskColor": "#00000015",
+      "inactiveColoredFileBackground": "#d9d9d950"
     },
 
     "DebuggerTabs.selectedBackground": "#F2F3F5",
@@ -164,14 +181,17 @@
     },
 
     "TabbedPane": {
-      "underlineColor": "#407FC7",
       "hoverColor": "#E1E2E3",
       "contentAreaColor": "#E1E3E6"
     },
 
     "Table.stripeColor": "#F2F3F5",
 
-    "TableHeader.cellBorder": "3,0,3,0",
+    "TableHeader": {
+      "cellBorder": "3,0,3,0",
+      "background": "#fafbfc",
+      "bottomSeparatorColor": "#ebedf0"
+    },
 
     "TextArea.background": "#FFFFFF",
 
